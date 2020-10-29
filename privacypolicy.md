@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Freist Li built the TuringNotes app as a Freemium app. This SERVICE is provided by Freist Li at no cost and is intended for use as is.
+The TuringNotes app as a Freemium app. This SERVICE is provided by Freist Li at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to App Usage. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using this Service, It may require you to provide certain personally identifiable information, including but not limited to App Usage. The information will be retained on your device and is not collected by the app in any way.
 
 The app does use third party services that may collect information used to identify you.
 
