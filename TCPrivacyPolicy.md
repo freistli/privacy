@@ -18,7 +18,10 @@ https://azure.microsoft.com/en-us/support/legal/cognitive-services-compliance-an
 
 **Log Data**
 
-I want to inform you that whenever you use this app, in a case of an error in the app the collected data and information (through third party products) on your device called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+I want to inform you that whenever you use this app, in a case of an error in the app the collected data and information (through third party products) on your device called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of this app, and other statistics.
+
+The app collects insights about how customers use this app and some of the problems they encounter. With these insights, I can drive improvements and quality. Insights help to quickly identify and fix critical reliability and security issues with the applicationson given configurations. The result is less downtime, reduced costs, and 
+increased productivity associated With troubleshooting these issues.
 
 **Cookies**
 
