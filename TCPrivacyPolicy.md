@@ -12,9 +12,9 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 For a better experience, while using this app, It may require you to provide certain personally identifiable information, including but not limited to App Usage. The information will be retained on your device and is not collected by the app in any way.
 
-The app does use Microsoft Azure services that may collect information used to identify you, refer to Azure Service Privacy Policy:
+The app does use Microsoft Azure AD and Microsoft Graph services that may collect information used to identify you, refer to Azure Service Privacy Policy:
 
-https://azure.microsoft.com/en-us/support/legal/cognitive-services-compliance-and-privacy/
+https://azure.microsoft.com/en-us/support/legal/
 
 **Log Data**
 
