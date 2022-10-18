@@ -1,3 +1,7 @@
+## Setup
+
+### Azure Side
+
 1. Register App in Azure AD https://aad.portal.azure.com (Refer to [Register your app with the Azure AD v2.0 endpoint](https://learn.microsoft.com/en-us/graph/auth-register-app-v2?view=graph-rest-1.0)), with below scopes for Delegated Permissions of Microsoft Graph, granted the scopes with Admin consent:
   
                 "User.Read.All
@@ -22,12 +26,22 @@
   ![image](https://user-images.githubusercontent.com/8623897/196481916-bada985b-8725-45e3-b334-e74a8dd2b19b.png)
   
   
+### Client Side
 
- 4. Config Tenant ID, Client ID, and Redirect Uri as below. If the register the app as Multi-Tenant, use **common** in the Tenant ID field, otherwise, use the real Tenant ID
+ 1. Config Tenant ID, Client ID, and Redirect Uri as below. If the register the app as Multi-Tenant, use **common** in the Tenant ID field, otherwise, use the real Tenant ID
 
 
    ![image](https://user-images.githubusercontent.com/8623897/196483155-ef6ed635-373c-4a6e-90c2-50d5bcc77669.png)
 
    
-   
+ ## Backup Client Data
+ 
+ 1. Open Teams Communicator, click Settings. Copy the Data File Path
+ 2. Close App, copy all data in the data file path to backup place
+ 
+ ## Restore Client Data
+ 
+ 1. Open Teams Communicator, click Settings. Copy the Data File Path
+ 2. Close App, copy data from backup place to data file path, overwrite existed ones.
+ 3. Open App.
 
