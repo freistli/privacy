@@ -77,7 +77,7 @@ The Warm up task can be stopped by click Stop or close the app. Logon user can c
 3. Click Send Message, choose Task type (single, team, group, everyone)
 4. Click Send, and follow the wizard.
 
-The Send task can be stopped by click Stop or close the app.  Logon user can resume the same task later. After completing warm up, sending to 6500 users takes less than 7 minutes.
+The Send task can be stopped by click Stop or close the app.  Logon user can resume the same task later. After completing warm up, general tests result is sending to 6500 users takes less than 7 minutes.
 
 ## Resume Tasks
 [1]: https://github.com/freistli/privacy/edit/master/TCSetupGuide.md
