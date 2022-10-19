@@ -1,1 +1,1 @@
-# privacy
+# Guide & Privacy
